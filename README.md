@@ -13,3 +13,16 @@ and Clustering,” accepted at SBrT 2026.
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Execution
+
+```bash
+python bary_gwmds_experiments.py
+python mean_gwmds_c_experiments.py
+```
+
+## Dependencies
+
+The experiments require Python, NumPy, SciPy, PyTorch,
+scikit-learn, POT, mvlearn, Matplotlib, and tqdm.
